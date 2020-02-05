@@ -4,5 +4,5 @@
 # What I Learned
 * Design and write code for web app using HTML5, CSS3, and Javascript.
 
-# Demo 
+# View Project
 https://shahstudios.github.io/KOT-Electrical/
